@@ -1,0 +1,23 @@
+.mainHeader {
+    border: 1px solid black;
+}
+
+.mainContainer {
+    margin-top: 6rem;
+    margin-bottom: 1rem;
+    width: 80%;
+}
+
+.mainContainer h2 {
+    margin-bottom: 2rem;
+}
+
+#loginSubmitButton {
+    width: 15rem;
+    height: 3rem;
+    margin-top: 1rem;
+}
+
+.productCard{
+    margin-bottom: 2rem;
+}
